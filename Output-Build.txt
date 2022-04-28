@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ms4, Configuration: Debug x64 ------
+1>main52.cpp
+1>ms4.vcxproj -> D:\OneDrive - Seneca\2022 Spring\OOP 224\Project\m56\x64\Debug\ms4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
